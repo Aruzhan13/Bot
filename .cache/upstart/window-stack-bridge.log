@@ -1,0 +1,2 @@
+QDBusConnection: name 'org.ayatana.bamf' had owner '' but we thought it was ':1.6'
+Error getting parents for "/org/ayatana/bamf/window/44040400" QDBusError("org.freedesktop.DBus.Error.UnknownMethod", "No such interface 'org.ayatana.bamf.view' on object at path /org/ayatana/bamf/window/44040400")

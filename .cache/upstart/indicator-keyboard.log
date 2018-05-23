@@ -1,0 +1,3 @@
+
+(gkbd-keyboard-display:2681): Gtk-CRITICAL **: gtk_widget_set_allocation: assertion '_gtk_widget_get_visible (widget) || _gtk_widget_is_toplevel (widget)' failed
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.

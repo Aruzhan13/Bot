@@ -1,0 +1,2 @@
+gpg-agent stop/pre-start, process 1074
+gpgconf: warning: can not open config file /home/aruzhan/.gnupg/gpg-agent.conf: No such file or directory

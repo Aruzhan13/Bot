@@ -1,0 +1,185 @@
+OpenGL vendor string:   VMware, Inc.
+OpenGL renderer string: llvmpipe (LLVM 5.0, 256 bits)
+OpenGL version string:  3.0 Mesa 17.2.8
+
+Not software rendered:    [31;01mno[00m
+Not blacklisted:          [32;01myes[00m
+GLX fbconfig:             [32;01myes[00m
+GLX texture from pixmap:  [32;01myes[00m
+GL npot or rect textures: [32;01myes[00m
+GL vertex program:        [32;01myes[00m
+GL fragment program:      [32;01myes[00m
+GL vertex buffer object:  [32;01myes[00m
+GL framebuffer object:    [32;01myes[00m
+GL version is 1.4+:       [32;01myes[00m
+
+Unity 3D supported:       [31;01mno[00m
+Using compiz profile 'ubuntu:unity-lowgfx'
+dbus-update-activation-environment: setting COMPIZ_CONFIG_PROFILE=ubuntu
+dbus-update-activation-environment: setting UNITY_HAS_3D_SUPPORT=false
+dbus-update-activation-environment: setting UNITY_DEFAULT_PROFILE=unity-lowgfx
+compizconfig - Info: Backend     : gsettings
+compizconfig - Info: Integration : true
+compizconfig - Info: Profile     : unity
+
+(process:1328): GLib-GIO-WARNING **: g_settings_set_value: value for key 'visual-bell-type' in schema 'org.gnome.desktop.wm.preferences' is outside of valid range
+Switched to profile 'unity-lowgfx' (for environment 'ubuntu')
+compizconfig - Info: Backend     : gsettings
+compizconfig - Info: Integration : true
+compizconfig - Info: Profile     : unity-lowgfx
+compizconfig - Info: Backend     : gsettings
+compizconfig - Info: Integration : true
+compizconfig - Info: Profile     : unity-lowgfx
+compiz (core) - Info: Loading plugin: core
+compiz (core) - Info: Starting plugin: core
+compiz (core) - Info: Loading plugin: ccp
+compiz (core) - Info: Starting plugin: ccp
+compizconfig - Info: Backend     : gsettings
+compizconfig - Info: Integration : true
+compizconfig - Info: Profile     : unity-lowgfx
+compiz (core) - Info: Loading plugin: composite
+compiz (core) - Info: Starting plugin: composite
+compiz (core) - Info: Loading plugin: opengl
+compiz (core) - Info: Starting plugin: opengl
+compiz (core) - Info: Loading plugin: copytex
+compiz (core) - Info: Starting plugin: copytex
+compiz (core) - Info: Loading plugin: vpswitch
+compiz (core) - Info: Starting plugin: vpswitch
+compiz (core) - Info: Loading plugin: place
+compiz (core) - Info: Starting plugin: place
+compiz (core) - Info: Loading plugin: resize
+compiz (core) - Info: Starting plugin: resize
+compiz (core) - Info: Loading plugin: session
+compiz (core) - Info: Starting plugin: session
+compiz (core) - Info: Loading plugin: workarounds
+compiz (core) - Info: Starting plugin: workarounds
+compiz (core) - Info: Loading plugin: compiztoolbox
+compiz (core) - Info: Starting plugin: compiztoolbox
+compiz (core) - Info: Loading plugin: mousepoll
+compiz (core) - Info: Starting plugin: mousepoll
+compiz (core) - Info: Loading plugin: wall
+compiz (core) - Info: Starting plugin: wall
+compiz (core) - Info: Loading plugin: regex
+compiz (core) - Info: Starting plugin: regex
+compiz (core) - Info: Loading plugin: imgpng
+compiz (core) - Info: Starting plugin: imgpng
+compiz (core) - Info: Loading plugin: grid
+compiz (core) - Info: Starting plugin: grid
+compiz (core) - Info: Loading plugin: move
+compiz (core) - Info: Starting plugin: move
+compiz (core) - Info: Loading plugin: fade
+compiz (core) - Info: Starting plugin: fade
+compiz (core) - Info: Loading plugin: snap
+compiz (core) - Info: Starting plugin: snap
+compiz (core) - Info: Loading plugin: expo
+compiz (core) - Info: Starting plugin: expo
+compiz (core) - Info: Loading plugin: unitymtgrabhandles
+compiz (core) - Info: Starting plugin: unitymtgrabhandles
+compiz (core) - Info: Loading plugin: scale
+compiz (core) - Info: Starting plugin: scale
+compiz (core) - Info: Loading plugin: ezoom
+compiz (core) - Info: Starting plugin: ezoom
+compiz (core) - Info: Loading plugin: unityshell
+compiz (core) - Info: Starting plugin: unityshell
+WARN  2018-05-23 11:19:55 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.Shell' yet as we don't have a connection, waiting for it...
+WARN  2018-05-23 11:19:56 unity.debug.interface DebugDBusInterface.cpp:217 Unable to load entry point in libxpathselect: libxpathselect.so.1.4: cannot open shared object file: No such file or directory -- full D-Bus introspection will not be available
+WARN  2018-05-23 11:19:56 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.SessionManager.EndSessionDialog' yet as we don't have a connection, waiting for it...
+WARN  2018-05-23 11:19:56 xim.controller XIMController.cpp:103 IBus natively supported.
+WARN  2018-05-23 11:19:56 unity.dash.gsettingsscopereader GSettingsScopes.cpp:108 Error fetching protocol metadata for scope: social.scope : Valid key file could not be found in search dirs
+WARN  2018-05-23 11:19:56 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Launcher' yet as we don't have a connection, waiting for it...
+WARN  2018-05-23 11:19:57 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Dash' yet as we don't have a connection, waiting for it...
+WARN  2018-05-23 11:19:58 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Session' yet as we don't have a connection, waiting for it...
+WARN  2018-05-23 11:19:58 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.ScreenSaver' yet as we don't have a connection, waiting for it...
+WARN  2018-05-23 11:20:01 unityo (appinfo2) <unknown>:0 g_settings_set_value: value for key 'visual-bell-type' in schema 'org.gnome.desktop.wm.preferences' is outside of valid range
+ERROR 2018-05-23 11:20:02 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'org.gnome.Shell'
+ERROR 2018-05-23 11:20:02 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'com.canonical.Unity'
+WARN  2018-05-23 11:20:02 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-05-23 11:20:02 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-05-23 11:20:02 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-05-23 11:20:02 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-05-23 11:20:02 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-05-23 11:20:02 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-05-23 11:20:02 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-05-23 11:20:02 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-05-23 11:20:02 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-05-23 11:20:02 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-05-23 11:31:07 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-23 11:31:22 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+WARN  2018-05-23 11:41:33 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-23 11:41:42 unity.iconloader IconLoader.cpp:264 Unable to load icon . GThemedIcon inode-chardevice inode-x-generic at size 64
+WARN  2018-05-23 11:41:47 unity.iconloader IconLoader.cpp:264 Unable to load icon . GThemedIcon inode-chardevice inode-x-generic at size 64
+WARN  2018-05-23 11:41:47 unity.iconloader IconLoader.cpp:264 Unable to load icon . GThemedIcon inode-socket inode-x-generic at size 64
+WARN  2018-05-23 11:58:37 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-23 12:10:06 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-23 12:17:44 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+ERROR 2018-05-23 12:17:56 unitysource != null <unknown>:0 g_value_set_object: assertion 'g_value_type_compatible (G_OBJECT_TYPE (v_object), G_VALUE_TYPE (value))' failed
+WARN  2018-05-23 12:21:11 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-23 12:27:26 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-23 12:34:05 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-23 12:44:43 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-23 12:54:06 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-23 12:57:02 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-23 13:06:10 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-23 13:06:35 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-23 13:07:51 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-23 13:12:07 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-23 14:22:12 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-23 14:30:07 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-23 14:32:05 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+ERROR 2018-05-23 15:20:15 nux.gestures_subscription GesturesSubscription.cpp:93 Failed to deactivate Geis subscription.
+ERROR 2018-05-23 15:20:15 nux.gestures_subscription GesturesSubscription.cpp:93 Failed to deactivate Geis subscription.
+ERROR 2018-05-23 15:20:15 nux.gestures_subscription GesturesSubscription.cpp:93 Failed to deactivate Geis subscription.
+WARN  2018-05-23 15:58:39 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-23 16:12:35 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+ERROR 2018-05-23 16:21:06 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+ERROR 2018-05-23 16:21:06 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+WARN  2018-05-23 16:37:19 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-23 17:05:18 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+ERROR 2018-05-23 18:55:48 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+ERROR 2018-05-23 18:55:48 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+ERROR 2018-05-23 18:55:49 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+ERROR 2018-05-23 18:55:49 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+ERROR 2018-05-23 18:55:49 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+ERROR 2018-05-23 18:55:49 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+WARN  2018-05-24 01:22:27 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-24 01:30:04 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-24 02:36:06 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-24 02:41:52 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-24 02:43:29 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-24 02:57:14 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C003D,name=PContent::Msg_EndDragSession) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C005F,name=PContent::Msg_SuspendInputEventQueue) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C005D,name=PContent::Msg_FlushInputEventQueue) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C005E,name=PContent::Msg_ResumeInputEventQueue) Closed channel: cannot send/recv
+
+ERROR 2018-05-24 03:23:20 unitysource != null <unknown>:0 g_value_set_object: assertion 'g_value_type_compatible (G_OBJECT_TYPE (v_object), G_VALUE_TYPE (value))' failed
+WARN  2018-05-24 03:23:26 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/44040400
+WARN  2018-05-24 03:23:26 unity <unknown>:0 Failed to fetch type: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/44040400
+WARN  2018-05-24 03:23:26 unity <unknown>:0 Failed to fetch monitor: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/44040400
+WARN  2018-05-24 03:23:26 unity <unknown>:0 Failed to fetch maximized state: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/44040400
+WARN  2018-05-24 03:23:26 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/44040400
+WARN  2018-05-24 03:23:26 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/44040400
+WARN  2018-05-24 03:23:26 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/44040400
+WARN  2018-05-24 03:23:26 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/44040400
+WARN  2018-05-24 03:23:26 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/44040400
+WARN  2018-05-24 03:23:26 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/44040400
+WARN  2018-05-24 03:23:26 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/44040400
+WARN  2018-05-24 03:23:26 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/44040400
+WARN  2018-05-24 03:23:26 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/44040400
+WARN  2018-05-24 03:23:26 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/44040400
+WARN  2018-05-24 03:38:42 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-24 03:53:47 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-24 03:59:26 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-24 04:00:30 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-24 04:18:30 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-24 04:21:24 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-24 04:27:56 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-24 04:30:42 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
+WARN  2018-05-24 04:32:54 unity.shell.compiz unityshell.cpp:3271 Animation plugin not found. Can't set minimize speed.
